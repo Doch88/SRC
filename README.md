@@ -18,7 +18,7 @@ We have done this project during our bachelors years, and as such there are the 
 - It uses a MySQL database. The project requirements were specific about using a MySQL database. Before committing to GitHub I managed to embed a MariaDB database (thanks to the MariaDB4J project) inside the software, removing the need of using a separate DBMS. But using such a database still carries some limitations.
 - The code could be better. We were still bachelors students after all.
 
-Before committing to GitHub, I also added localization in different languages. <be>
+Before committing to GitHub, I also added localization in different languages. <br>
 As mentioned, the project was fully in Italian, and while translating the code and comments required too much time and work, localizing the editor and the platform was a fairly easy job, allowing non-Italian users to try it.
 
 ## Editor mode
