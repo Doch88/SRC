@@ -42,7 +42,7 @@ It is also possible to test the map using the "Start" button.
 Once a game is created, it is possible to play it using the Platform mode, after creating a save entry. <br>
 This mode starts from the first map of a game and unlocks the next ones when the player gets to the end of the map.
 
-## Know bugs
+## Known bugs
 
 Currently, Linux is not supported. If you're interested, please open an issue, and I will spend some time fixing the problem.
 
